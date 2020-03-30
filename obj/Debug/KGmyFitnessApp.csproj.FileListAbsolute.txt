@@ -1,0 +1,153 @@
+c:\users\10814854\documents\visual studio 2017\Projects\KGmyFitnessApp\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe.config
+c:\users\10814854\documents\visual studio 2017\Projects\KGmyFitnessApp\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe
+c:\users\10814854\documents\visual studio 2017\Projects\KGmyFitnessApp\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.pdb
+c:\users\10814854\documents\visual studio 2017\Projects\KGmyFitnessApp\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csprojResolveAssemblyReference.cache
+c:\users\10814854\documents\visual studio 2017\Projects\KGmyFitnessApp\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MainForm.resources
+c:\users\10814854\documents\visual studio 2017\Projects\KGmyFitnessApp\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Properties.Resources.resources
+c:\users\10814854\documents\visual studio 2017\Projects\KGmyFitnessApp\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csproj.GenerateResource.Cache
+c:\users\10814854\documents\visual studio 2017\Projects\KGmyFitnessApp\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.exe
+c:\users\10814854\documents\visual studio 2017\Projects\KGmyFitnessApp\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.pdb
+F:\Info 1200\KGmyFitnessApp\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe.config
+F:\Info 1200\KGmyFitnessApp\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe
+F:\Info 1200\KGmyFitnessApp\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.pdb
+F:\Info 1200\KGmyFitnessApp\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csprojResolveAssemblyReference.cache
+F:\Info 1200\KGmyFitnessApp\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MainForm.resources
+F:\Info 1200\KGmyFitnessApp\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyProfileForm.resources
+F:\Info 1200\KGmyFitnessApp\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Properties.Resources.resources
+F:\Info 1200\KGmyFitnessApp\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csproj.GenerateResource.Cache
+F:\Info 1200\KGmyFitnessApp\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.exe
+F:\Info 1200\KGmyFitnessApp\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp1\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe.config
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp1\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp1\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp1\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csprojResolveAssemblyReference.cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp1\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MainForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp1\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyProfileForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp1\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Properties.Resources.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp1\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csproj.GenerateResource.Cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp1\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp1\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp3.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csprojResolveAssemblyReference.cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp3.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MainForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp3.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyBMRform.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp3.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyProfileForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp3.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Properties.Resources.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp3.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csproj.GenerateResource.Cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp3.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp3.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp3.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe.config
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp3.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp3.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp4.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe.config
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp4.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp4.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp4.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csprojResolveAssemblyReference.cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp4.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MainForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp4.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyBMRform.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp4.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyProfileForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp4.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Properties.Resources.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp4.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csproj.GenerateResource.Cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp4.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp4.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp5.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csprojResolveAssemblyReference.cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp5.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MainForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp5.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyBMRform.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp5.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyProfileForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp5.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Properties.Resources.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp5.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csproj.GenerateResource.Cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp5.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp5.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp5.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe.config
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp5.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp5.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp5.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Timer.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp7.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe.config
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp7.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp7.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp7.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csprojResolveAssemblyReference.cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp7.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.ExerciseLogForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp7.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MainForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp7.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyBMRform.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp7.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyProfileForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp7.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Properties.Resources.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp7.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Timer.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp7.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csproj.GenerateResource.Cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp7.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp7.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp8.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe.config
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp8.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp8.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp8.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csprojResolveAssemblyReference.cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp8.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.ExerciseLogForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp8.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MainForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp8.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyBMRform.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp8.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyProfileForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp8.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyWaterForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp8.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Properties.Resources.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp8.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Timer.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp8.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csproj.GenerateResource.Cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp8.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp8.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp9.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe.config
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp9.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp9.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp9.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csprojResolveAssemblyReference.cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp9.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.ExerciseLogForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp9.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.FoodItemForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp9.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MainForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp9.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyBMRform.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp9.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyProfileForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp9.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyWaterForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp9.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Properties.Resources.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp9.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Timer.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp9.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csproj.GenerateResource.Cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp9.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp9.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe.config
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.pdb
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csprojResolveAssemblyReference.cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.ExerciseLogForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.FoodItemForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MainForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyBMRform.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyProfileForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyWaterForm.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Properties.Resources.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Timer.resources
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csproj.GenerateResource.Cache
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.exe
+C:\Users\10814854\Documents\Visual Studio 2017\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.pdb
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe.config
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.pdb
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csprojResolveAssemblyReference.cache
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.ExerciseLogForm.resources
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.FoodItemForm.resources
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MainForm.resources
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MealPlannerForm.resources
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyBMRform.resources
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyProfileForm.resources
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyWaterForm.resources
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Properties.Resources.resources
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Timer.resources
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csproj.GenerateResource.Cache
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.exe
+E:\Projects\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.pdb
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe.config
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.exe
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\bin\Debug\KGmyFitnessApp.pdb
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csprojResolveAssemblyReference.cache
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.ExerciseLogForm.resources
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.FoodItemForm.resources
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MainForm.resources
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MealPlannerForm.resources
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyBMRform.resources
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyProfileForm.resources
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.MyWaterForm.resources
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Properties.Resources.resources
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.Timer.resources
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csproj.GenerateResource.Cache
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.exe
+C:\Users\kyleg\Downloads\KGmyFitnessApp10.0-20171207T193906Z-001\KGmyFitnessApp10.0\KGmyFitnessApp\obj\Debug\KGmyFitnessApp.pdb
